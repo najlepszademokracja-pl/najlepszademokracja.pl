@@ -47,6 +47,14 @@ const quizData = [
         c: "Konflikt, w którym strony stosują połączenie konwencjonalnych działań wojskowych, operacji specjalnych, działań w cyberprzestrzeni oraz taktyk wpływu informacyjnego",
         d: "Konflikt zbrojny, w którym główną rolę odgrywają siły powietrzne bez zaangażowania sił lądowych i morskich",
         correct: "c"
+    },
+    {
+        question: "Rodzina Kowalskich jest prymusem odnawialnych źródeł energii. W 2022 roku zainwestowali 40000 zł w panele fotowoltaiczne o mocy 10 kWp, 50000 zł w magazyn energii o pojemności 20 kWh, oraz 50000 zł w pompę ciepła. Uwzględniając dotacje 50% wydali 70000 zł z własnych oszczędności. Na jak długo wystarczy im własnej energii bez potrzeby używania energii z sieci w zimowe pochmurne dni. Zakładając, że w tym okresie produkcja z paneli jest równa zeru, pompa ciepła pobiera średnio około 2 kW na godzinę, pozostałe zużycie energii w domu to 1 kW na godzinę, a magazyn należy używać według zaleceń producenta, czyli ładować do maksymalnie 80% i nie rozładowywać poniżej 20% pojemności.",
+        a: "około 7 dni",
+        b: "około 4 godziny",
+        c: "około 2 dni",
+        d: "około 24 godziny",
+        correct: "b"
     }
 ];
 
