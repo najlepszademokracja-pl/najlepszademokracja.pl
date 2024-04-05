@@ -1,8 +1,9 @@
 // Cześć. Widzę, że znalazłeś pytania i odpowiedzi do quizu. Gratuluję!
 // Domyślam się, że jak ja jesteś z programistycznego świata, więc nie będę tłumaczył, że to tylko niezabezpieczone demo, itp.
-// Mam nadzięję, że inicjatywa Ci się podoba. Jeśli tak, to zapraszam do współpracy na githubie.
+// Mam nadzięję, że inicjatywa Ci się podoba. Jeśli tak, to zapraszam do współpracy na https://github.com/najlepszademokracja-pl
 // Chętnie przyjmę wszelkie uwagi, propozycje, pomysły i zgłoszenia błędów.
-// Jeśli chcesz zaproponować pytania do quizu lub masz pomysł na promocję inicjatywy, to również zapraszam.
+// Jeśli chcesz zaproponować pytania do quizu https://github.com/najlepszademokracja-pl/questions
+// lub masz pomysł na promocję inicjatywy, to również zapraszam.
 // Jeśli jak większość z nas jesteś wiecznie zajęty to wdzięczny będę za choćby polubienie, skomentowanie lub udostępnienie strony znajomym i rodzinie.
 // Wszystko to motywuje mnie do dalszej pracy nad projektem, a uważam, że warto walczyć.
 // Pozdrawiam i życzę powodzenia w rozwiązaniu quizu.
