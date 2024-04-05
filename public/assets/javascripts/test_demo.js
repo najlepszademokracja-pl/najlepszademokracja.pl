@@ -108,7 +108,7 @@ submitBtn.addEventListener("click", () => {
         } else {
             const percent = (score/quizData.length)*100;
             quiz.innerHTML = `
-              <h3>Prawidłowo odpowiedziałeś na ${percent}% pytań.</h3>
+              <h3>Prawidłowo odpowiedziałeś na ${parseFloat(percent).toFixed(2)}% pytań.</h3>
               <button onclick="location.reload()">Jeszcze raz</button>
             `;
         }
