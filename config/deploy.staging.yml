@@ -1,6 +1,6 @@
 # Deploy your site to a staging server with skiff stage
 servers:
-  - 10.0.0.242
+  - 10.0.0.220
 # Set this to the git branch the staging server should be pulling from when using auto-updating with GIT_URL
 # env:
 #   clear:
