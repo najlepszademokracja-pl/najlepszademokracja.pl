@@ -1,6 +1,14 @@
 # Deploy your site to a staging server with skiff stage
 servers:
-  - 10.0.0.220
+  web:
+    hosts:
+      - 10.0.0.220
+    options:
+      network: private
+    labels:
+      traefik.http.routers.najlepsza_demokracja-web-staging.entrypoints: websecure
+      traefik.http.routers.najlepsza_demokracja-web-staging.rule: Host(`www.najlepszademokracja.pl`)
+      traefik.http.routers.najlepsza_demokracja-web-staging.tls.certresolver: letsencrypt
 # Set this to the git branch the staging server should be pulling from when using auto-updating with GIT_URL
 # env:
 #   clear:
